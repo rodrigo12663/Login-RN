@@ -10,7 +10,7 @@
 
 </head>
 <body>
-<img style="width:90;height:90;  src="src/assets/loginStarted.jpeg"></img>
+<img style="width:90;height:90; "src="src/assets/loginStarted.jpeg"></img>
  <img  src="src/assets/login.jpeg"></img>
 
 </body>
