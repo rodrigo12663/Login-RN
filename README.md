@@ -10,7 +10,8 @@
 
 </head>
 <body>
-
+<img  src="src/assets/loginStarted.jpeg"></img>
+ <img  src="src/assets/login.jpeg"></img>
 
 </body>
 </html>
